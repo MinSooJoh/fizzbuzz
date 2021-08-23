@@ -1,3 +1,4 @@
+
 # fizz buzz for python
 
 for j in range(1,20+1):
@@ -6,7 +7,4 @@ for j in range(1,20+1):
     else:
         print(j)
 
-
-
-
-
+        

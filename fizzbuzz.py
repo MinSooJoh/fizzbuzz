@@ -1,4 +1,5 @@
-# Fizz Buzz for Python
+
+# fizz buzz for python
 
 for j in range(1,20+1):
     if j%3==0 or j%5==0:
@@ -6,3 +7,4 @@ for j in range(1,20+1):
     else:
         print(j)
 
+        
